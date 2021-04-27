@@ -41,3 +41,5 @@ There are a couple ways you can begin editing this template for your project.  Y
 
 * This template can also be duplicated and edited directly in web editors such as the [p5 Web Editor](https://editor.p5js.org/) or [Glitch](https://glitch.com/).
 
+    * [p5 Web Editor Project]() – Duplicate to edit
+    * [Glitch Project](https://glitch.com/edit/#!/3d-shared-space) – Remix to edit
